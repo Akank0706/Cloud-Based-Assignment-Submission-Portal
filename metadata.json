@@ -1,0 +1,6 @@
+{
+  "name": "Cloud-Based Student Assignment Submission & Feedback Portal",
+  "description": "Cloud-based student assignment submission and feedback platform featuring role-based authentication, cloud database integration, object storage, assignment management, secure file submission, grading, and feedback workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

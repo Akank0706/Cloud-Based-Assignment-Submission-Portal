@@ -1,0 +1,12 @@
+# Python Backend & ML Microservice Dependencies (Optional Cloud Run Service)
+flask==3.0.3
+gunicorn==22.0.0
+sentence-transformers==2.7.0
+torch>=2.2.0
+scikit-learn==1.4.2
+pandas==2.2.2
+joblib==1.4.0
+python-dotenv==1.0.1
+pydantic==2.7.1
+pytest==8.2.0
+requests==2.31.0
